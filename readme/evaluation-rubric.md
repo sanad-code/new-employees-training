@@ -1,0 +1,41 @@
+# Welcome 🙋‍♂️ to Evaluation Rubric ⚖ 👨‍⚖️
+
+### [🔙 Back To Main Readme](../readme.md)
+
+This evaluation rubric for both technical and non-technical skills is key to assessing progress effectively over the training period.
+
+🚨**This evaluation rubric has no mid point 😉. Do your best to be in Proficient (3) / Advanced (4) by the end of the training program**🔥
+
+---
+
+### **Technical Skills Evaluation Rubric**
+
+| **Criteria**                       | **Beginner (1)**                                                                          | **Intermediate (2)**                                                                                                           | **Proficient (3)**                                                                                                   | **Advanced (4)**                                                                                                                      |
+| ---------------------------------- | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| **Programming & Code Quality**     | Needs assistance with basic syntax and structure. Often has errors in logic and syntax.   | Can write basic programs with limited errors; needs occasional help. Code may have minor issues with readability or structure. | Can write clean, modular, and readable code independently, with minimal errors. Consistently applies best practices. | Consistently writes optimized, efficient, and well-documented code with advanced understanding of best practices and design patterns. |
+| **Problem Solving**                | Struggles to analyze requirements and often needs guidance to approach solutions.         | Understands problem requirements and can propose solutions with moderate help.                                                 | Can analyze requirements effectively and solve problems independently.                                               | Shows creativity and efficiency in solving complex problems, often suggesting multiple solutions.                                     |
+| **Version Control (Git)**          | Basic understanding of version control concepts. Needs help with branches and commits.    | Can manage branches, commits, and pull requests with minimal assistance.                                                       | Independently manages complex branching and merging strategies. Proficient in using Git for collaborative workflows. | Uses advanced Git features (rebasing, stashing, conflict resolution) effectively. Helps others with version control challenges.       |
+| **Testing & Debugging**            | Minimal understanding of testing concepts. Often skips tests or struggles with debugging. | Can write and execute basic tests; can debug code with occasional assistance.                                                  | Writes comprehensive test cases, utilizes debugging tools effectively, and rarely misses critical bugs.              | Implements advanced testing techniques (e.g., TDD/BDD), optimizes tests for efficiency, and actively promotes testing best practices. |
+| **Software Architecture & Design** | Lacks understanding of architecture principles. Struggles to follow existing designs.     | Can follow simple design patterns and basic architecture guidelines.                                                           | Understands and applies SOLID principles and basic design patterns to create scalable and maintainable code.         | Designs complex systems following architectural best practices. Guides others in understanding design principles and patterns.        |
+
+---
+
+### **Non-Technical Skills Evaluation Rubric**
+
+| **Criteria**                 | **Beginner (1)**                                                                                                 | **Intermediate (2)**                                                                                  | **Proficient (3)**                                                                                      | **Advanced (4)**                                                                                                                 |
+| ---------------------------- | ---------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| **Communication**            | Struggles to articulate ideas clearly. Limited ability to explain technical concepts or collaborate effectively. | Can explain ideas but occasionally lacks clarity. Moderate ability to communicate technical concepts. | Communicates effectively with clear explanations, adapting communication style for different audiences. | Shows excellent communication, explaining complex topics clearly, actively listening, and supporting others in discussions.      |
+| **Collaboration & Teamwork** | Tends to work alone or struggles in group settings. Does not actively contribute to team discussions.            | Participates in team activities but occasionally struggles with feedback or collaboration.            | Actively contributes, respects others' input, and collaborates well in group settings.                  | Demonstrates strong teamwork, encourages others, effectively manages group dynamics, and resolves conflicts.                     |
+| **Adaptability**             | Resists change or needs significant time to adjust to new tools or processes.                                    | Adapts to change with guidance but may take extra time to feel comfortable with new processes.        | Quickly adapts to new tools, processes, and challenges with minimal assistance.                         | Embraces change, proactively learns new skills, and helps others adapt to new situations.                                        |
+| **Time Management**          | Frequently misses deadlines or struggles to prioritize tasks.                                                    | Completes work but may require reminders to stay on schedule; moderate prioritization skills.         | Manages time effectively, meets deadlines, and can prioritize tasks with minimal oversight.             | Exemplifies strong time management, handles multiple tasks efficiently, and often mentors others on prioritization and planning. |
+| **Learning & Growth**        | Shows limited initiative in learning new skills or improving performance.                                        | Shows interest in learning but requires encouragement to pursue knowledge or self-improvement.        | Actively seeks out learning opportunities and demonstrates self-motivation to improve.                  | Proactively pursues continuous learning, mentors others, and brings new ideas or techniques to the team.                         |
+| **Adherence to Company Rules & Policies** | Struggles to follow company guidelines or policies. May require reminders to comply with rules. | Follows company rules but may need occasional reminders. | Adheres to company policies consistently and demonstrates respect for guidelines and procedures. | Sets an example for others by consistently following company rules, actively promoting compliance, and helping others understand and adhere to policies. |
+---
+
+## General Tips
+
+- We will conduct pre and post exams on weekly / bi-weekly bases.
+- For the 3 month training program you will be evaluated formally 2 times, after 1.5 month and then at the end of the program.
+- I encourge you to give honest evaluation for your self with the aid of the rubric.
+
+### [🔙 Back To Main Readme](../readme.md)
